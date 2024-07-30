@@ -1,6 +1,6 @@
-## Hi there 👋
+## boa vindas ao meu perfil 👋
 
-<!--
+<!--meu nome é Johnatan Menegatti
 **menegatty/menegatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
